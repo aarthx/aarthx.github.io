@@ -1,0 +1,92 @@
+[
+  {
+    "project": "beings",
+    "name": "Beings",
+    "github": "https://github.com/aarthx/beings",
+    "deploy": "https://aarthx.github.io/beings/",
+    "description": "Um site desenvolvido usando JS,HTML e CSS, utilizando diversas efeitos animados, as imagens utilizadas foram produzidas pela A.I Midjourney.",
+    "image": "https://i.ibb.co/FHzkwDj/beings.png",
+    "tags": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "project": "gameFuse",
+    "name": "Game Fuse",
+    "github": "https://github.com/aarthx/GameFuse",
+    "deploy": "https://aarthx.github.io/GameFuse/",
+    "description": "Site Game Fuse desenvolvido utilizando HTML e CSS, o tema principal do site é sobre premiação de melhores jogos por categoria.",
+    "image": "https://i.ibb.co/QpjDnvh/game-fuse.png",
+    "tags": ["HTML", "CSS"]
+  },
+  {
+    "project": "jogo-da-velha",
+    "name": "Jogo da Velha",
+    "github": "https://github.com/aarthx/jogo-da-velha",
+    "deploy": "https://aarthx.github.io/jogo-da-velha/",
+    "description": "Site com o clássico jogo da velha, feito utilizando lógica em JavaScript.",
+    "image": "https://i.ibb.co/r48yFrH/velha.png",
+    "tags": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "project": "openWorld-Login",
+    "name": "Open World",
+    "github": "https://github.com/aarthx/openWorld_Login",
+    "deploy": "https://aarthx.github.io/openWorld_Login/",
+    "description": "Pequeno site testando efeito Parallax scroll e fazendo uma tela de login simples ",
+    "image": "https://i.ibb.co/TwZffvj/parallax-login.png",
+    "tags": ["HTML", "CSS"]
+  },
+  {
+    "project": "weather-forecast",
+    "name": "Weather Forecast",
+    "github": "https://github.com/aarthx/weather-forecast",
+    "deploy": "https://aarthx.github.io/weather-forecast/",
+    "description": "Pequeno app que faz utilização das APIs : Weather Forecast API e Geocoding API",
+    "image": "https://i.ibb.co/85P5dRt/weather.png",
+    "tags": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "project": "ghibli-unfold-card",
+    "name": "Cards Estúdio Ghibli",
+    "github": "https://github.com/aarthx/ghibli_unfold_card",
+    "deploy": "https://aarthx.github.io/ghibli_unfold_card/",
+    "description": "Site para estudar animação animação CSS de folha se abrindo e fechando e a criação de cards simples.",
+    "image": "https://i.ibb.co/J7C5xxD/unfold-ghibli-card.png",
+    "tags": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "project": "pomodoroTimer",
+    "name": "Pomodoro Timer",
+    "github": "https://github.com/aarthx/pomodoroTimer",
+    "deploy": "https://aarthx.github.io/pomodoroTimer/",
+    "description": "Site contendo pequeno app timer com o tema de pomodoro, tecnica de estudos.",
+    "image": "https://i.ibb.co/P5bsGCt/pomodoro-timer.png",
+    "tags": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "project": "oldPortfolio",
+    "name": "Portfólio Antigo",
+    "github": "https://github.com/aarthx/aarthx.github.io",
+    "deploy": "https://aarthx.github.io",
+    "description": "Antigo Portfólio, com projetos iniciais e participação de eventos como o NLW e Alura para desenvolvedores iniciantes",
+    "image": "https://i.ibb.co/tcmXNzS/aarthx-github-io.png",
+    "tags": ["HTML", "CSS", "JavaScript", "jQuery"]
+  },
+  {
+    "project": "geradorDeNumeros",
+    "name": "Gerador de número aleatório",
+    "github": "https://github.com/aarthx/geradorDeNumeros",
+    "deploy": "https://aarthx.github.io/geradorDeNumeros",
+    "description": "Site onde pode se pode sortear um número que se encontra em um intervalo predefinido",
+    "image": "https://i.ibb.co/yyS9czW/sorteador-numeros.png",
+    "tags": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "project": "flipImage",
+    "name": "Flipador de imagens",
+    "github": "https://github.com/aarthx/flipImage",
+    "deploy": "https://aarthx.github.io/flipImage",
+    "description": "Site onde pode se pode colocar o link de uma imagem e espelha-la e vira-la como se queira",
+    "image": "https://i.ibb.co/MDzqSmw/flip-images.png",
+    "tags": ["HTML", "CSS", "JavaScript"]
+  }
+]

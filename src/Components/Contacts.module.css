@@ -1,0 +1,110 @@
+.contatos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: var(--dark);
+  color: var(--light);
+}
+
+.contatos h1 {
+  font-family: var(--type-first);
+  font-size: 6rem;
+  font-weight: bold;
+  padding: 2.5rem 0;
+}
+
+
+.contatos a {
+  font-family: var(--type-second);
+  color: var(--light);
+}
+
+.contatos a:nth-child(2),
+.contatos a:nth-child(3) {
+  display: inline-block;
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  transition: .2s;
+}
+
+.contatos a:nth-child(2):hover,
+.contatos a:nth-child(3):hover {
+  color: var(--blue-1);
+  outline: 2px solid var(--light);
+}
+
+.contatos h1::before {
+  content: '>';
+}
+
+.logoLinks {
+  padding: 4rem 0;
+  display: flex;
+  gap: 5rem;
+}
+
+.contatos .logoLinks .linkSvg:hover{
+  outline: none;
+}
+
+.contatos .logoLinks .linkSvg:hover path{
+   fill: var(--blue-1);
+}
+
+.contatos p {
+  font-family: var(--type-second);
+  font-size: 1.5rem;
+  padding: 0 0 2rem 0;
+}
+
+@media (max-width: 700px) {
+  .contatos a {
+    font-size: 1.5rem !important;
+  }
+}
+
+@media (max-width: 530px) {
+  .contatos a {
+    font-size: 1.5rem !important;
+  }
+  .contatos h1 {
+    font-family: var(--type-first);
+    font-size: 4rem;
+    font-weight: bold;
+    padding: 2.5rem 0;
+  }
+  .contatos .logoLinks {
+    gap: 1rem;
+ }
+  .contatos .logoLinks .linkSvg svg{
+    width: 75%;
+ }
+}
+
+@media (max-width: 410px) {
+  .contatos p {
+    font-family: var(--type-second);
+    font-size: 1rem;
+    padding: 0 0 2rem 0;
+  }
+  .contatos a {
+    font-size: 1rem !important;
+  }
+  .contatos .logoLinks {
+    padding: 0;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    justify-content: center;
+ }
+}
+
+@media (max-width: 340px) {
+  .contatos h1 {
+    font-size: 3rem;
+  }
+  .contatos .logoLinks a {
+    margin: 0;
+ }
+}

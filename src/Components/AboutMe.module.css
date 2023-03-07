@@ -1,0 +1,150 @@
+.sobreMim {
+  position: relative;
+  background: var(--blue-3);
+  padding-top: 5rem;
+  padding-bottom: 10rem;
+  z-index: 100;
+  overflow: hidden;
+}
+
+.sobreContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.barraSuperior {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: center;
+  justify-items: center;
+  height: 3.5rem;
+  width: 60%;
+  background: var(--dark);
+  border-radius: 1.5rem 1.5rem 0 0;
+}
+
+.barraSuperior ul {
+  justify-self: start;
+  margin-left: 1rem;
+  display: flex;
+  gap: 0.75rem;
+}
+
+.barraSuperior ul li {
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+}
+
+.barraSuperior ul li:nth-child(1) {
+  background-color: var(--blue-3);
+}
+
+.barraSuperior ul li:nth-child(2) {
+  background-color: var(--blue-2);
+}
+
+.barraSuperior ul li:nth-child(3) {
+  background-color: var(--blue-1);
+}
+
+.barraSuperior h2 {
+  font-family: var(--type-first);
+  color: var(--light);
+  font-size: 2.25rem;
+  font-weight: bold;
+}
+
+.contentBox {
+  padding: 1.5rem;
+  width: 60%;
+  background: var(--light);
+  border-radius: 0 0 1.5rem 1.5rem;
+  color: var(--blue-3);
+}
+
+.contentBox h3 {
+  font-family: var(--type-first);
+  font-weight: bold;
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.contentBox p::before {
+  content: '> ';
+  font-family: var(--type-second);
+}
+
+.contentBox p{
+  font-size: 1.25rem;
+  font-family: var(--type-second);
+  margin-bottom: 2rem;
+}
+
+.contentBox p:last-child{
+  margin-bottom: 0;
+}
+
+.contentBox a {
+  color: var(--blue-1);
+}
+
+.colorTransition {
+  position: absolute;
+  bottom: -6.75rem;
+  width: 100%;
+  height: 12rem;
+  background: var(--blue-2);
+  transform: skew(0deg, -5deg);
+}
+
+@media (max-width: 1000px) {
+  .barraSuperior {
+    width: 80%;
+  }
+  .contentBox {
+    width: 80%;
+  }  
+}
+
+@media (max-width: 700px) {
+  .barraSuperior ul li {
+    width: 1.25rem;
+    height: 1.25rem;
+    border-radius: 50%;
+  }
+  .barraSuperior h2 {
+    font-family: var(--type-first);
+    color: var(--light);
+    font-size: 1.75rem;
+    font-weight: bold;
+  }
+}
+
+@media (max-width: 550px) {
+  .barraSuperior {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 500px) {
+  .contentBox p{
+    font-size: 1rem;
+    font-family: var(--type-second);
+    margin-bottom: 2rem;
+  }
+  .barraSuperior {
+    width: 95%;
+  }
+  .contentBox {
+    width: 95%;
+  }  
+}
+
+@media (max-width: 300px) {
+  .barraSuperior {
+    height: 4rem;
+  }
+}

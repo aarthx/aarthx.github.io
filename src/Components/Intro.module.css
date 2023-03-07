@@ -1,0 +1,145 @@
+.intro {
+  position: relative;
+  background: var(--blue-1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8rem 0;
+}
+
+.text{
+  color: var(--light);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.ola {
+  font-family: var(--type-second);
+  font-size: 2.5rem;
+}
+
+.nome{
+  font-family: var(--type-first);
+  font-size: 9rem;
+}
+
+.cargo {
+  font-size: 3rem;
+  overflow: hidden;
+  white-space: nowrap;
+  animation: typewritter 3.5s steps(40, end);
+}
+
+.cargo::after {
+  content: '|';
+  animation: pisca .5s infinite;
+}
+
+@keyframes typewritter {
+  from {width: 0;}
+  to {width: 100%;}
+}
+
+@keyframes pisca {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.colorTransition {
+  position: absolute;
+  bottom: -6.75rem;
+  width: 100%;
+  height: 12rem;
+  background: var(--blue-3);
+  transform: skew(0deg, -5deg);
+}
+
+@media (max-width: 1500px) {
+  .intro {
+    flex-direction: column;
+    padding: 8rem 0;
+    gap: 1.5rem;
+  }
+}
+
+@media (max-width: 1100px) {
+  .ola {
+    font-size: 2rem;
+  }
+  .nome{
+    font-size: 6rem;
+  }
+  .cargo {
+    font-size: 2rem;
+  }
+}
+
+
+@media (max-width: 710px) {
+  .intro {
+    padding: 4rem 0 6rem 0;
+  }
+  .ola {
+    font-size: 1.5rem;
+  }
+  .nome{
+    font-size: 5rem;
+  }
+  .cargo {
+    font-size: 1.5rem;
+  }
+  .foto {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+  }
+  .foto svg {
+    max-width: 20rem;
+    max-height: 20rem;
+  }
+}
+
+@media (max-width: 570px) {
+  .intro {
+    padding: 2rem 0 6rem 0;
+  }
+  .ola {
+    font-size: 1.5rem;
+  }
+  .nome{
+    font-size: 3rem;
+  }
+  .cargo {
+    font-size: 1.5rem;
+  }
+  .foto svg {
+    max-width: 10rem;
+    max-height: 10rem;
+  }
+  .colorTransition {
+    bottom: -2rem;
+    height: 6rem;
+  }
+}
+
+@media (max-width: 350px) {
+  .intro {
+    padding: 2rem 0 6rem 0;
+  }
+  .ola {
+    font-size: 1rem;
+  }
+  .nome{
+    font-size: 2.5rem;
+  }
+  .cargo {
+    font-size: 1rem;
+  }
+  .foto svg {
+    max-width: 10rem;
+    max-height: 10rem;
+  }
+}
