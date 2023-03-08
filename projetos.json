@@ -65,11 +65,20 @@
   {
     "project": "oldPortfolio",
     "name": "Portfólio Antigo",
-    "github": "https://github.com/aarthx/aarthx.github.io",
-    "deploy": "https://aarthx.github.io",
+    "github": "https://github.com/aarthx/oldPortfolio",
+    "deploy": "https://aarthx.github.io/oldPortfolio/",
     "description": "Antigo Portfólio, com projetos iniciais e participação de eventos como o NLW e Alura para desenvolvedores iniciantes",
     "image": "https://i.ibb.co/tcmXNzS/aarthx-github-io.png",
     "tags": ["HTML", "CSS", "JavaScript", "jQuery"]
+  },
+  {
+    "project": "Portfolio",
+    "name": "Portfólio React",
+    "github": "https://github.com/aarthx/aarthx.github.io",
+    "deploy": "https://aarthx.github.io",
+    "description": "Portfólio feito com React, com projetos feitos por Arthur Augusto",
+    "image": "https://i.ibb.co/Zh8YD5s/portfolio-React.png",
+    "tags": ["React", "CSS", "HTML"]
   },
   {
     "project": "geradorDeNumeros",
