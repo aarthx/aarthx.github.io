@@ -82,7 +82,7 @@
   },
   {
     "project": "geradorDeNumeros",
-    "name": "Gerador de número aleatório",
+    "name": "Gerador de número",
     "github": "https://github.com/aarthx/geradorDeNumeros",
     "deploy": "https://aarthx.github.io/geradorDeNumeros",
     "description": "Site onde pode se pode sortear um número que se encontra em um intervalo predefinido",
