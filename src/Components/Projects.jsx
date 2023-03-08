@@ -28,7 +28,6 @@ const Projects = () => {
           });
         });
         setTags(tagsUtilizadas);
-        console.log(projetos);
       }
       pegaTags();
     }

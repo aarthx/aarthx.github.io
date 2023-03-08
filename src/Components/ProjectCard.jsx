@@ -16,7 +16,7 @@ const ProjectCard = ({ photo, name, tags, deploy, github }) => {
       case 'React':
         return [styles.tagReact, './icons/react.svg'];
       default:
-        return none;
+        return '';
     }
   }
 
