@@ -8,6 +8,15 @@
     "image": "https://i.ibb.co/FHzkwDj/beings.png",
     "tags": ["JavaScript", "CSS", "HTML"]
   },
+    {
+    "project": "Pokedex",
+    "name": "Pokédex",
+    "github": "https://github.com/aarthx/beings",
+    "deploy": "https://pokedex-nine-lovat-13.vercel.app",
+    "description": "Um site desenvolvido usando React e a API PokeAPI, para mostrar nome, imagem e status de todos os pokemons",
+    "image": "https://i.ibb.co/WK9B9Qp/pokedex-nine-lovat-13-vercel-app.png",
+    "tags": ["React", "CSS", "HTML"]
+  },
   {
     "project": "gameFuse",
     "name": "Game Fuse",
