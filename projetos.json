@@ -8,6 +8,15 @@
     "image": "https://i.ibb.co/FHzkwDj/beings.png",
     "tags": ["JavaScript", "CSS", "HTML"]
   },
+  {
+    "project": "renaEssence",
+    "name": "Rena Essence",
+    "github": "https://github.com/aarthx/RenaEssence",
+    "deploy": "https://rena-essence.vercel.app",
+    "description": "O Renascimento: um Período de Mudanças, site sobre o período do renascimento, feito com ReactJS",
+    "image": "https://i.ibb.co/rfxt2dh/renaessence.png",
+    "tags": ["React", "CSS", "HTML"]
+  },
     {
     "project": "Pokedex",
     "name": "Pokédex",
