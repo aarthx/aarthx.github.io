@@ -109,11 +109,20 @@
   },
   {
     "project": "flipImage",
-    "name": "Flipador de imagens",
+    "name": "Flip images",
     "github": "https://github.com/aarthx/flipImage",
     "deploy": "https://aarthx.github.io/flipImage",
     "description": "Site onde pode se pode colocar o link de uma imagem e espelha-la e vira-la como se queira",
     "image": "https://i.ibb.co/MDzqSmw/flip-images.png",
     "tags": ["JavaScript", "CSS", "HTML"]
+  }
+  {
+    "project": "flipImages2",
+    "name": "Flip images Ver.2",
+    "github": "https://github.com/aarthx/flipImages2",
+    "deploy": "https://flip-images2.vercel.app",
+    "description": "New version of flip images, made with ReactJS",
+    "image": "https://i.ibb.co/RHFKGdm/flipimages2.png",
+    "tags": ["React", "CSS", "HTML"]
   }
 ]
