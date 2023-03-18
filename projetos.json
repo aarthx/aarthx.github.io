@@ -115,7 +115,7 @@
     "description": "Site onde pode se pode colocar o link de uma imagem e espelha-la e vira-la como se queira",
     "image": "https://i.ibb.co/MDzqSmw/flip-images.png",
     "tags": ["JavaScript", "CSS", "HTML"]
-  }
+  },
   {
     "project": "flipImages2",
     "name": "Flip images Ver.2",
