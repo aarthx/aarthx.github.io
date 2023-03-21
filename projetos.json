@@ -17,7 +17,34 @@
     "image": "https://i.ibb.co/rfxt2dh/renaessence.png",
     "tags": ["React", "CSS", "HTML"]
   },
-    {
+  {
+    "project": "flipImages2",
+    "name": "Flip images Ver.2",
+    "github": "https://github.com/aarthx/flipImages2",
+    "deploy": "https://flip-images2.vercel.app",
+    "description": "New version of flip images, made with ReactJS",
+    "image": "https://i.ibb.co/RHFKGdm/flipimages2.png",
+    "tags": ["React", "CSS", "HTML"]
+  },
+  {
+    "project": "geradorDeNumeros2",
+    "name": "Sorteador Ver.2",
+    "github": "https://github.com/aarthx/sorteadorV2",
+    "deploy": "https://sorteador-v2.vercel.app",
+    "description": "Segunda versão do sorteador de números, feito com ReactJS",
+    "image": "https://i.ibb.co/ydLqmh4/sorteador-v2-vercel-app.png",
+    "tags": ["React", "CSS", "HTML"]
+  },
+  {
+    "project": "pomodoroV2",
+    "name": "Pomodoro Ver.2",
+    "github": "https://github.com/aarthx/pomodoroV2",
+    "deploy": "https://pomodoro-v2-two.vercel.app/",
+    "description": "A new version of the pomodoro app, this time made with React",
+    "image": "https://i.ibb.co/0VZVPXb/pomodorov2.png",
+    "tags": ["React", "CSS", "HTML"]
+  },
+  {
     "project": "Pokedex",
     "name": "Pokédex",
     "github": "https://github.com/aarthx/pokedexRepo",
@@ -108,15 +135,6 @@
     "tags": ["JavaScript", "CSS", "HTML"]
   },
   {
-    "project": "geradorDeNumeros2",
-    "name": "Sorteador Ver.2",
-    "github": "https://github.com/aarthx/sorteadorV2",
-    "deploy": "https://sorteador-v2.vercel.app",
-    "description": "Segunda versão do sorteador de números, feito com ReactJS",
-    "image": "https://i.ibb.co/ydLqmh4/sorteador-v2-vercel-app.png",
-    "tags": ["React", "CSS", "HTML"]
-  },
-  {
     "project": "flipImage",
     "name": "Flip images",
     "github": "https://github.com/aarthx/flipImage",
@@ -124,14 +142,5 @@
     "description": "Site onde pode se pode colocar o link de uma imagem e espelha-la e vira-la como se queira",
     "image": "https://i.ibb.co/MDzqSmw/flip-images.png",
     "tags": ["JavaScript", "CSS", "HTML"]
-  },
-  {
-    "project": "flipImages2",
-    "name": "Flip images Ver.2",
-    "github": "https://github.com/aarthx/flipImages2",
-    "deploy": "https://flip-images2.vercel.app",
-    "description": "New version of flip images, made with ReactJS",
-    "image": "https://i.ibb.co/RHFKGdm/flipimages2.png",
-    "tags": ["React", "CSS", "HTML"]
   }
 ]
