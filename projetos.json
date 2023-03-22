@@ -18,12 +18,12 @@
     "tags": ["React", "CSS", "HTML", "Figma"]
   },
   {
-    "project": "flipImages2",
-    "name": "Flip images Ver.2",
-    "github": "https://github.com/aarthx/flipImages2",
-    "deploy": "https://flip-images2.vercel.app",
-    "description": "New version of flip images, made with ReactJS",
-    "image": "https://i.ibb.co/RHFKGdm/flipimages2.png",
+    "project": "pomodoroV2",
+    "name": "Pomodoro Ver.2",
+    "github": "https://github.com/aarthx/pomodoroV2",
+    "deploy": "https://pomodoro-v2-two.vercel.app/",
+    "description": "A new version of the pomodoro app, this time made with React",
+    "image": "https://i.ibb.co/0VZVPXb/pomodorov2.png",
     "tags": ["React", "CSS", "HTML", "Figma"]
   },
   {
@@ -36,12 +36,12 @@
     "tags": ["React", "CSS", "HTML", "Figma"]
   },
   {
-    "project": "pomodoroV2",
-    "name": "Pomodoro Ver.2",
-    "github": "https://github.com/aarthx/pomodoroV2",
-    "deploy": "https://pomodoro-v2-two.vercel.app/",
-    "description": "A new version of the pomodoro app, this time made with React",
-    "image": "https://i.ibb.co/0VZVPXb/pomodorov2.png",
+    "project": "flipImages2",
+    "name": "Flip images Ver.2",
+    "github": "https://github.com/aarthx/flipImages2",
+    "deploy": "https://flip-images2.vercel.app",
+    "description": "New version of flip images, made with ReactJS",
+    "image": "https://i.ibb.co/RHFKGdm/flipimages2.png",
     "tags": ["React", "CSS", "HTML", "Figma"]
   },
   {
@@ -70,6 +70,15 @@
     "description": "Site com o clássico jogo da velha, feito utilizando lógica em JavaScript.",
     "image": "https://i.ibb.co/r48yFrH/velha.png",
     "tags": ["JavaScript", "CSS", "HTML"]
+  },
+    {
+    "project": "Portfolio",
+    "name": "Portfólio React",
+    "github": "https://github.com/aarthx/aarthx.github.io",
+    "deploy": "https://aarthx.github.io",
+    "description": "Portfólio feito com React, com projetos feitos por Arthur Augusto",
+    "image": "https://i.ibb.co/Zh8YD5s/portfolio-React.png",
+    "tags": ["React", "CSS", "HTML", "Figma"]
   },
   {
     "project": "openWorld-Login",
@@ -115,15 +124,6 @@
     "description": "Antigo Portfólio, com projetos iniciais e participação de eventos como o NLW e Alura para desenvolvedores iniciantes",
     "image": "https://i.ibb.co/tcmXNzS/aarthx-github-io.png",
     "tags": ["JavaScript", "CSS", "HTML", "jQuery"]
-  },
-  {
-    "project": "Portfolio",
-    "name": "Portfólio React",
-    "github": "https://github.com/aarthx/aarthx.github.io",
-    "deploy": "https://aarthx.github.io",
-    "description": "Portfólio feito com React, com projetos feitos por Arthur Augusto",
-    "image": "https://i.ibb.co/Zh8YD5s/portfolio-React.png",
-    "tags": ["React", "CSS", "HTML", "Figma"]
   },
   {
     "project": "geradorDeNumeros",
