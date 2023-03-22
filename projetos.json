@@ -15,7 +15,7 @@
     "deploy": "https://rena-essence.vercel.app",
     "description": "O Renascimento: um Período de Mudanças, site sobre o período do renascimento, feito com ReactJS",
     "image": "https://i.ibb.co/rfxt2dh/renaessence.png",
-    "tags": ["React", "CSS", "HTML"]
+    "tags": ["React", "CSS", "HTML", "Figma"]
   },
   {
     "project": "flipImages2",
@@ -24,10 +24,10 @@
     "deploy": "https://flip-images2.vercel.app",
     "description": "New version of flip images, made with ReactJS",
     "image": "https://i.ibb.co/RHFKGdm/flipimages2.png",
-    "tags": ["React", "CSS", "HTML"]
+    "tags": ["React", "CSS", "HTML", "Figma"]
   },
   {
-    "project": "geradorDeNumeros2",
+    "project": "geradorDeNumeros2", "Figma",
     "name": "Sorteador Ver.2",
     "github": "https://github.com/aarthx/sorteadorV2",
     "deploy": "https://sorteador-v2.vercel.app",
@@ -36,7 +36,7 @@
     "tags": ["React", "CSS", "HTML"]
   },
   {
-    "project": "pomodoroV2",
+    "project": "pomodoroV2", "Figma",
     "name": "Pomodoro Ver.2",
     "github": "https://github.com/aarthx/pomodoroV2",
     "deploy": "https://pomodoro-v2-two.vercel.app/",
@@ -51,7 +51,7 @@
     "deploy": "https://pokedex-nine-lovat-13.vercel.app",
     "description": "Um site desenvolvido usando React e a API PokeAPI, para mostrar nome, imagem e status de todos os pokemons",
     "image": "https://i.ibb.co/WK9B9Qp/pokedex-nine-lovat-13-vercel-app.png",
-    "tags": ["React", "CSS", "HTML"]
+    "tags": ["React", "CSS", "HTML", "Figma"]
   },
   {
     "project": "gameFuse",
@@ -123,7 +123,7 @@
     "deploy": "https://aarthx.github.io",
     "description": "Portfólio feito com React, com projetos feitos por Arthur Augusto",
     "image": "https://i.ibb.co/Zh8YD5s/portfolio-React.png",
-    "tags": ["React", "CSS", "HTML"]
+    "tags": ["React", "CSS", "HTML", "Figma"]
   },
   {
     "project": "geradorDeNumeros",
