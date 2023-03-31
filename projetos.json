@@ -45,6 +45,15 @@
     "tags": ["React", "CSS", "HTML", "Figma"]
   },
   {
+    "project": "roletaIndecisos",
+    "name": "Roleta Indecisos",
+    "github": "https://github.com/aarthx/roletaIndecisos",
+    "deploy": "https://roleta-indecisos.vercel.app",
+    "description": "Roleta feita com React para tomar decisões dificeis",
+    "image": "https://i.ibb.co/7t1wrQY/roleta-Indecisos.png",
+    "tags": ["React", "TypeScript" ,"CSS", "HTML", "Figma"]
+  },
+  {
     "project": "Pokedex",
     "name": "Pokédex",
     "github": "https://github.com/aarthx/pokedexRepo",
