@@ -51,7 +51,7 @@
     "deploy": "https://roleta-indecisos.vercel.app",
     "description": "Roleta feita com React para tomar decisões dificeis",
     "image": "https://i.ibb.co/7t1wrQY/roleta-Indecisos.png",
-    "tags": ["React", "TypeScript" ,"CSS", "HTML", "Figma"]
+    "tags": ["React", "TypeScript", "CSS", "HTML", "Figma"]
   },
   {
     "project": "Pokedex",
@@ -80,7 +80,7 @@
     "image": "https://i.ibb.co/r48yFrH/velha.png",
     "tags": ["JavaScript", "CSS", "HTML"]
   },
-    {
+  {
     "project": "Portfolio",
     "name": "Portfólio React",
     "github": "https://github.com/aarthx/aarthx.github.io",
