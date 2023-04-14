@@ -1,5 +1,14 @@
 [
   {
+    "project": "ask_king",
+    "name": "Ask King",
+    "github": "https://github.com/aarthx/ask_king",
+    "deploy": "https://ask-king.vercel.app",
+    "description": "A Quiz made with React, using triviaAPI and Redux.",
+    "image": "https://i.ibb.co/DGvKzmj/ask-king-vercel-app.png",
+    "tags": ["React", "TypeScript", "CSS", "Redux", "HTML", "Figma"]
+  },
+  {
     "project": "beings",
     "name": "Beings",
     "github": "https://github.com/aarthx/beings",
