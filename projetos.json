@@ -54,15 +54,6 @@
     "tags": ["React", "CSS", "HTML", "Figma"]
   },
   {
-    "project": "roletaIndecisos",
-    "name": "Roleta Indecisos",
-    "github": "https://github.com/aarthx/roletaIndecisos",
-    "deploy": "https://roleta-indecisos.vercel.app",
-    "description": "Roleta feita com React para tomar decisões dificeis",
-    "image": "https://i.ibb.co/7t1wrQY/roleta-Indecisos.png",
-    "tags": ["React", "TypeScript", "CSS", "HTML", "Figma"]
-  },
-  {
     "project": "Pokedex",
     "name": "Pokédex",
     "github": "https://github.com/aarthx/pokedexRepo",
@@ -90,75 +81,12 @@
     "tags": ["JavaScript", "CSS", "HTML"]
   },
   {
-    "project": "Portfolio",
-    "name": "Portfólio React",
-    "github": "https://github.com/aarthx/aarthx.github.io",
-    "deploy": "https://aarthx.github.io",
-    "description": "Portfólio feito com React, com projetos feitos por Arthur Augusto",
-    "image": "https://i.ibb.co/Zh8YD5s/portfolio-React.png",
-    "tags": ["React", "CSS", "HTML", "Figma"]
-  },
-  {
-    "project": "openWorld-Login",
-    "name": "Open World",
-    "github": "https://github.com/aarthx/openWorld_Login",
-    "deploy": "https://aarthx.github.io/openWorld_Login/",
-    "description": "Pequeno site testando efeito Parallax scroll e fazendo uma tela de login simples ",
-    "image": "https://i.ibb.co/TwZffvj/parallax-login.png",
-    "tags": ["HTML", "CSS"]
-  },
-  {
     "project": "weather-forecast",
     "name": "Weather Forecast",
     "github": "https://github.com/aarthx/weather-forecast",
     "deploy": "https://aarthx.github.io/weather-forecast/",
     "description": "Pequeno app que faz utilização das APIs : Weather Forecast API e Geocoding API",
     "image": "https://i.ibb.co/85P5dRt/weather.png",
-    "tags": ["JavaScript", "CSS", "HTML"]
-  },
-  {
-    "project": "ghibli-unfold-card",
-    "name": "Cards Estúdio Ghibli",
-    "github": "https://github.com/aarthx/ghibli_unfold_card",
-    "deploy": "https://aarthx.github.io/ghibli_unfold_card/",
-    "description": "Site para estudar animação animação CSS de folha se abrindo e fechando e a criação de cards simples.",
-    "image": "https://i.ibb.co/J7C5xxD/unfold-ghibli-card.png",
-    "tags": ["JavaScript", "CSS", "HTML"]
-  },
-  {
-    "project": "pomodoroTimer",
-    "name": "Pomodoro Timer",
-    "github": "https://github.com/aarthx/pomodoroTimer",
-    "deploy": "https://aarthx.github.io/pomodoroTimer/",
-    "description": "Site contendo pequeno app timer com o tema de pomodoro, tecnica de estudos.",
-    "image": "https://i.ibb.co/P5bsGCt/pomodoro-timer.png",
-    "tags": ["JavaScript", "CSS", "HTML"]
-  },
-  {
-    "project": "oldPortfolio",
-    "name": "Portfólio Antigo",
-    "github": "https://github.com/aarthx/oldPortfolio",
-    "deploy": "https://aarthx.github.io/oldPortfolio/",
-    "description": "Antigo Portfólio, com projetos iniciais e participação de eventos como o NLW e Alura para desenvolvedores iniciantes",
-    "image": "https://i.ibb.co/tcmXNzS/aarthx-github-io.png",
-    "tags": ["JavaScript", "CSS", "HTML", "jQuery"]
-  },
-  {
-    "project": "geradorDeNumeros",
-    "name": "Sorteador",
-    "github": "https://github.com/aarthx/geradorDeNumeros",
-    "deploy": "https://aarthx.github.io/geradorDeNumeros",
-    "description": "Site onde pode se pode sortear um número que se encontra em um intervalo predefinido",
-    "image": "https://i.ibb.co/yyS9czW/sorteador-numeros.png",
-    "tags": ["JavaScript", "CSS", "HTML"]
-  },
-  {
-    "project": "flipImage",
-    "name": "Flip images",
-    "github": "https://github.com/aarthx/flipImage",
-    "deploy": "https://aarthx.github.io/flipImage",
-    "description": "Site onde pode se pode colocar o link de uma imagem e espelha-la e vira-la como se queira",
-    "image": "https://i.ibb.co/MDzqSmw/flip-images.png",
     "tags": ["JavaScript", "CSS", "HTML"]
   }
 ]
