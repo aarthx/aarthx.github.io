@@ -85,12 +85,10 @@
 }
 
 @media (max-width: 720px) {
-  .projectList {
-    grid-template-columns: 1fr;
-  }
   .filtro {
     margin: 2rem 2rem 4rem 2rem;
-  }
+    padding:  0.5rem 0.25rem;
+  } 
 }
 
 @media (max-width: 470px) {
@@ -102,6 +100,12 @@
   }
   .filtro li {
     text-align: center;
+  }
+}
+
+@media (max-width: 360px) {
+  .projectList {
+    grid-template-columns: 1fr;
   }
 }
 

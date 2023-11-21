@@ -15,6 +15,8 @@ const ProjectCard = ({ photo, name, tags, deploy, github }) => {
         return [styles.tagJQuery, './icons/jquery.svg'];
       case 'React':
         return [styles.tagReact, './icons/react.svg'];
+      case 'TypeScript':
+        return [styles.tagReact, './icons/ts.svg'];
       default:
         return '';
     }

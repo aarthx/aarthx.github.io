@@ -35,10 +35,11 @@ const AboutMe = () => {
             ”]
           </p>
           <h3>Interesses:</h3>
-          <p>[“Desenvolvimento Web”, "Jogos”, “Física”, “Astronomia”]</p>
+          <p>[“Programação”, "Jogos”, “Ficção”, “Astronomia”]</p>
           <h3>Educação:</h3>
           <p>
-            [“Bacharelado em Engenharia Civil (IFG) - Cursando”, “Tecnólogo em
+            [“Bacharelado em Engenharia Civil (IFG) - Completo”,<br/> “Bacharelado em
+            Engenharia de software (UnDF) - Cursando”,<br/> “Tecnólogo em
             Análise e desenvolvimento de sistemas (UniAmérica) - Cursando”]
           </p>
           <h3>Conhecimentos:</h3>

@@ -1,5 +1,14 @@
 [
   {
+    "project": "ask_king",
+    "name": "Ask King",
+    "github": "https://github.com/aarthx/ask_king",
+    "deploy": "https://ask-king.vercel.app",
+    "description": "A Quiz made with React, using triviaAPI and Redux.",
+    "image": "https://i.ibb.co/DGvKzmj/ask-king-vercel-app.png",
+    "tags": ["React", "TypeScript", "CSS", "Redux", "HTML", "Figma"]
+  },
+  {
     "project": "beings",
     "name": "Beings",
     "github": "https://github.com/aarthx/beings",
@@ -7,6 +16,51 @@
     "description": "Um site desenvolvido usando JS,HTML e CSS, utilizando diversas efeitos animados, as imagens utilizadas foram produzidas pela A.I Midjourney.",
     "image": "https://i.ibb.co/FHzkwDj/beings.png",
     "tags": ["JavaScript", "CSS", "HTML"]
+  },
+  {
+    "project": "renaEssence",
+    "name": "Rena Essence",
+    "github": "https://github.com/aarthx/RenaEssence",
+    "deploy": "https://rena-essence.vercel.app",
+    "description": "O Renascimento: um Período de Mudanças, site sobre o período do renascimento, feito com ReactJS",
+    "image": "https://i.ibb.co/rfxt2dh/renaessence.png",
+    "tags": ["React", "CSS", "HTML", "Figma"]
+  },
+  {
+    "project": "pomodoroV2",
+    "name": "Pomodoro Ver.2",
+    "github": "https://github.com/aarthx/pomodoroV2",
+    "deploy": "https://pomodoro-v2-two.vercel.app/",
+    "description": "A new version of the pomodoro app, this time made with React",
+    "image": "https://i.ibb.co/0VZVPXb/pomodorov2.png",
+    "tags": ["React", "CSS", "HTML", "Figma"]
+  },
+  {
+    "project": "geradorDeNumeros2",
+    "name": "Sorteador Ver.2",
+    "github": "https://github.com/aarthx/sorteadorV2",
+    "deploy": "https://sorteador-v2.vercel.app",
+    "description": "Segunda versão do sorteador de números, feito com ReactJS",
+    "image": "https://i.ibb.co/ydLqmh4/sorteador-v2-vercel-app.png",
+    "tags": ["React", "CSS", "HTML", "Figma"]
+  },
+  {
+    "project": "flipImages2",
+    "name": "Flip images Ver.2",
+    "github": "https://github.com/aarthx/flipImages2",
+    "deploy": "https://flip-images2.vercel.app",
+    "description": "New version of flip images, made with ReactJS",
+    "image": "https://i.ibb.co/RHFKGdm/flipimages2.png",
+    "tags": ["React", "CSS", "HTML", "Figma"]
+  },
+  {
+    "project": "Pokedex",
+    "name": "Pokédex",
+    "github": "https://github.com/aarthx/pokedexRepo",
+    "deploy": "https://pokedex-nine-lovat-13.vercel.app",
+    "description": "Um site desenvolvido usando React e a API PokeAPI, para mostrar nome, imagem e status de todos os pokemons",
+    "image": "https://i.ibb.co/WK9B9Qp/pokedex-nine-lovat-13-vercel-app.png",
+    "tags": ["React", "CSS", "HTML", "Figma"]
   },
   {
     "project": "gameFuse",
@@ -27,75 +81,12 @@
     "tags": ["JavaScript", "CSS", "HTML"]
   },
   {
-    "project": "openWorld-Login",
-    "name": "Open World",
-    "github": "https://github.com/aarthx/openWorld_Login",
-    "deploy": "https://aarthx.github.io/openWorld_Login/",
-    "description": "Pequeno site testando efeito Parallax scroll e fazendo uma tela de login simples ",
-    "image": "https://i.ibb.co/TwZffvj/parallax-login.png",
-    "tags": ["HTML", "CSS"]
-  },
-  {
     "project": "weather-forecast",
     "name": "Weather Forecast",
     "github": "https://github.com/aarthx/weather-forecast",
     "deploy": "https://aarthx.github.io/weather-forecast/",
     "description": "Pequeno app que faz utilização das APIs : Weather Forecast API e Geocoding API",
     "image": "https://i.ibb.co/85P5dRt/weather.png",
-    "tags": ["JavaScript", "CSS", "HTML"]
-  },
-  {
-    "project": "ghibli-unfold-card",
-    "name": "Cards Estúdio Ghibli",
-    "github": "https://github.com/aarthx/ghibli_unfold_card",
-    "deploy": "https://aarthx.github.io/ghibli_unfold_card/",
-    "description": "Site para estudar animação animação CSS de folha se abrindo e fechando e a criação de cards simples.",
-    "image": "https://i.ibb.co/J7C5xxD/unfold-ghibli-card.png",
-    "tags": ["JavaScript", "CSS", "HTML"]
-  },
-  {
-    "project": "pomodoroTimer",
-    "name": "Pomodoro Timer",
-    "github": "https://github.com/aarthx/pomodoroTimer",
-    "deploy": "https://aarthx.github.io/pomodoroTimer/",
-    "description": "Site contendo pequeno app timer com o tema de pomodoro, tecnica de estudos.",
-    "image": "https://i.ibb.co/P5bsGCt/pomodoro-timer.png",
-    "tags": ["JavaScript", "CSS", "HTML"]
-  },
-  {
-    "project": "oldPortfolio",
-    "name": "Portfólio Antigo",
-    "github": "https://github.com/aarthx/oldPortfolio",
-    "deploy": "https://aarthx.github.io/oldPortfolio/",
-    "description": "Antigo Portfólio, com projetos iniciais e participação de eventos como o NLW e Alura para desenvolvedores iniciantes",
-    "image": "https://i.ibb.co/tcmXNzS/aarthx-github-io.png",
-    "tags": ["JavaScript", "CSS", "HTML", "jQuery"]
-  },
-  {
-    "project": "Portfolio",
-    "name": "Portfólio React",
-    "github": "https://github.com/aarthx/aarthx.github.io",
-    "deploy": "https://aarthx.github.io",
-    "description": "Portfólio feito com React, com projetos feitos por Arthur Augusto",
-    "image": "https://i.ibb.co/Zh8YD5s/portfolio-React.png",
-    "tags": ["React", "CSS", "HTML"]
-  },
-  {
-    "project": "geradorDeNumeros",
-    "name": "Gerador de número",
-    "github": "https://github.com/aarthx/geradorDeNumeros",
-    "deploy": "https://aarthx.github.io/geradorDeNumeros",
-    "description": "Site onde pode se pode sortear um número que se encontra em um intervalo predefinido",
-    "image": "https://i.ibb.co/yyS9czW/sorteador-numeros.png",
-    "tags": ["JavaScript", "CSS", "HTML"]
-  },
-  {
-    "project": "flipImage",
-    "name": "Flipador de imagens",
-    "github": "https://github.com/aarthx/flipImage",
-    "deploy": "https://aarthx.github.io/flipImage",
-    "description": "Site onde pode se pode colocar o link de uma imagem e espelha-la e vira-la como se queira",
-    "image": "https://i.ibb.co/MDzqSmw/flip-images.png",
     "tags": ["JavaScript", "CSS", "HTML"]
   }
 ]
