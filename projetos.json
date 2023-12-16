@@ -63,6 +63,15 @@
     "tags": ["React", "CSS", "HTML", "Figma"]
   },
   {
+    "project": "simpleKanban",
+    "name": "Kanban",
+    "github": "https://github.com/aarthx/simpleKanban",
+    "deploy": "https://aarthx.github.io/simpleKanban/",
+    "description": "Kanban Simples para gerenciamento de tarefas.",
+    "image": "https://i.ibb.co/JzV9dwp/simple-Kanban.png",
+    "tags": ["JavaScript", "HTML", "CSS"]
+  },
+  {
     "project": "gameFuse",
     "name": "Game Fuse",
     "github": "https://github.com/aarthx/GameFuse",
