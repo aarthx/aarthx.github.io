@@ -63,6 +63,15 @@
     "tags": ["React", "CSS", "HTML", "Figma"]
   },
   {
+    "project": "reactionGame",
+    "name": "Reaction Game",
+    "github": "https://github.com/aarthx/reactionGame",
+    "deploy": "https://aarthx.github.io/reactionGame/",
+    "description": "Um pequeno app para testar seu tempo de reação",
+    "image": "https://i.ibb.co/zG2CyyV/Projetos-reaction-Game-html.png",
+    "tags": ["TypeScript", "HTML", "CSS"]
+  },
+  {
     "project": "simpleKanban",
     "name": "Kanban",
     "github": "https://github.com/aarthx/simpleKanban",
