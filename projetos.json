@@ -18,6 +18,15 @@
     "tags": ["JavaScript", "CSS", "HTML"]
   },
   {
+    "project": "memoryGame",
+    "name": "Memory Game",
+    "github": "https://github.com/aarthx/memoryGame",
+    "deploy": "https://memory-game-pi-eight.vercel.app/",
+    "description": "Primeiro projeto usando Vue, serviu muito bem para aprender mais do framework.",
+    "image": "https://i.ibb.co/x5R5L9x/memory-game.png",
+    "tags": ["Vue", "CSS", "HTML"]
+  },
+  {
     "project": "renaEssence",
     "name": "Rena Essence",
     "github": "https://github.com/aarthx/RenaEssence",
