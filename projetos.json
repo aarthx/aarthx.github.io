@@ -1,5 +1,14 @@
 [
   {
+    "project": "fantasyBox",
+    "name": "Fantasy Box",
+    "github": "https://github.com/aarthx/fantasyBoxA",
+    "deploy": "https://fantasyboxf-static.onrender.com/",
+    "description": "Bem vindo ao Fantasy Box aqui você deposita todo conteudo que você já consumiu de livros, filmes ou jogos e pode se lembrar da nota e do que você achou da experiência!",
+    "image": "https://i.ibb.co/xYtQYVy/fantasybox.png",
+    "tags": ["Node", "JavaScript", "CSS", "HTML", "Figma"]
+  },
+  {
     "project": "ask_king",
     "name": "Ask King",
     "github": "https://github.com/aarthx/ask_king",
